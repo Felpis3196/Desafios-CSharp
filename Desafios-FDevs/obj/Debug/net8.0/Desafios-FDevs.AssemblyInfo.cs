@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafios-FDevs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d84c75924cd2158eff0e5fa970259283057382d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafios-FDevs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafios-FDevs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
