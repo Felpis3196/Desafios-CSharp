@@ -1,0 +1,14 @@
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\bin\Debug\net8.0\Desafios-FDevs.exe
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\bin\Debug\net8.0\Desafios-FDevs.deps.json
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\bin\Debug\net8.0\Desafios-FDevs.runtimeconfig.json
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\bin\Debug\net8.0\Desafios-FDevs.dll
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\bin\Debug\net8.0\Desafios-FDevs.pdb
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.AssemblyInfoInputs.cache
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.AssemblyInfo.cs
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.csproj.CoreCompileInputs.cache
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.dll
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\refint\Desafios-FDevs.dll
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.pdb
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\Desafios-FDevs.genruntimeconfig.cache
+C:\Users\fegri\Desktop\FDevs - Upper\Desafios-FDevs\Desafios-FDevs\obj\Debug\net8.0\ref\Desafios-FDevs.dll
